@@ -10,7 +10,7 @@ import os
 from streamlit_extras.buy_me_a_coffee import button
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
-button(username="seongdujin", floating=True, width=221)
+button(username="junosofz", floating=True, width=221)
 
 #제목
 st.title("ChatPDF")
